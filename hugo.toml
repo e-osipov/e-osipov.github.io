@@ -1,0 +1,4 @@
+baseURL = 'https://e-osipov.github.io/'
+languageCode = 'en-us'
+title = 'Evgenii blog'
+theme = 'ananke'
